@@ -12,7 +12,7 @@ export const templates = [
         previousJob: "Software Engineer",
         unemploymentPeriod: "6 months",
         bg: card1,
-        avatar: "https://oficialbac.com.br/cdn/shop/products/BAC21_2.jpg?v=1681937165",
+        avatar: "https://media.istockphoto.com/id/2212478701/vector/monochrome-female-silhouette-with-short-hair.jpg?s=612x612&w=0&k=20&c=Q_6Z6fOgbLwV3lBeCOYybXNNkkeTj8bjUMlIcy8aGtI=",
         className: "alt1",
     },
     {
@@ -21,7 +21,7 @@ export const templates = [
         previousJob: "Marketing Specialist",
         unemploymentPeriod: "4 months",
         bg: card5,
-        avatar: "https://img.pica-cdn.com/image/aigc/dd9c961862dba5af874c3e6bd6b31a65.webp",
+        avatar: "https://media.istockphoto.com/id/2212478701/vector/monochrome-female-silhouette-with-short-hair.jpg?s=612x612&w=0&k=20&c=Q_6Z6fOgbLwV3lBeCOYybXNNkkeTj8bjUMlIcy8aGtI=",
         className: "alt2",
     },
     {
@@ -30,7 +30,7 @@ export const templates = [
         previousJob: "Graphic Designer",
         unemploymentPeriod: "3 months",
         bg: card2,
-        avatar: "https://cea.vtexassets.com/arquivos/ids/58410395/top-cropped-halter-neck-de-poliamida-off-white-1028226-Off_White_1.jpg?v=638405751972130000",
+        avatar: "https://media.istockphoto.com/id/2212478701/vector/monochrome-female-silhouette-with-short-hair.jpg?s=612x612&w=0&k=20&c=Q_6Z6fOgbLwV3lBeCOYybXNNkkeTj8bjUMlIcy8aGtI=",
         className: "alt3",
     },
     {
@@ -39,7 +39,7 @@ export const templates = [
         previousJob: "Data Analyst",
         unemploymentPeriod: "1 month",
         bg: card3,
-        avatar: "https://img.pica-cdn.com/image/aigc/f69a05f8e2724173565daa1d0625c167.webp",
+        avatar: "https://media.istockphoto.com/id/1934800957/fr/vectoriel/avatar-vide-dhomme-espace-r%C3%A9serv%C3%A9-aux-photos-vectorielles-pour-les-r%C3%A9seaux-sociaux-les.jpg?s=612x612&w=0&k=20&c=1HPHvQGA8LYTRNLDvikY1bjk8RdUGFxHPwDpLv9N9m8=",
         className: "alt4",
     },
     {
@@ -48,7 +48,7 @@ export const templates = [
         previousJob: "Project Manager",
         unemploymentPeriod: "2 months",
         bg: card4,
-        avatar: "https://img.pica-cdn.com/image/aigc/098abf58e0740707b6895d18719164a0.webp",
+        avatar: "https://media.istockphoto.com/id/1934800957/fr/vectoriel/avatar-vide-dhomme-espace-r%C3%A9serv%C3%A9-aux-photos-vectorielles-pour-les-r%C3%A9seaux-sociaux-les.jpg?s=612x612&w=0&k=20&c=1HPHvQGA8LYTRNLDvikY1bjk8RdUGFxHPwDpLv9N9m8=",
         className: "alt5",
     },
 
@@ -58,7 +58,7 @@ export const templates = [
         previousJob: "Sales Executive",
         unemploymentPeriod: "5 months",
         bg: card6,
-        avatar: "https://img.pica-cdn.com/image/aigc/b5b034233845dae902572567b3100143.webp",
+        avatar: "https://media.istockphoto.com/id/1934800957/fr/vectoriel/avatar-vide-dhomme-espace-r%C3%A9serv%C3%A9-aux-photos-vectorielles-pour-les-r%C3%A9seaux-sociaux-les.jpg?s=612x612&w=0&k=20&c=1HPHvQGA8LYTRNLDvikY1bjk8RdUGFxHPwDpLv9N9m8=",
         className: "alt6",
     },
 ]
